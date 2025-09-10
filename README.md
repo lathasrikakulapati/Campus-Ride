@@ -30,11 +30,8 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/erkab/erkab-web-app.git
+git clone (https://github.com/lathasrikakulapati/Campus-Ride)
 Navigate to the project directory:
-
-bash
-cd erkab-web-app
 Install dependencies:
 
 bash
